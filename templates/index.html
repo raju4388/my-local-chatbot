@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AP EAMCET Chatbot</title>
+
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="dashboard">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+
+        <div class="logo">
+            <div class="logo-icon">🎓</div>
+
+            <div>
+                <h2>AP EAMCET</h2>
+                <span>CHATBOT</span>
+            </div>
+        </div>
+
+        <nav>
+
+            <a class="active" href="#">
+                🏠
+                <span>Dashboard</span>
+            </a>
+
+            <a href="#">
+                📚
+                <span>Syllabus</span>
+            </a>
+
+            <a href="#">
+                📝
+                <span>Exam Information</span>
+            </a>
+
+            <a href="#">
+                🎯
+                <span>Eligibility</span>
+            </a>
+
+            <a href="#">
+                📅
+                <span>Important Dates</span>
+            </a>
+
+            <a href="#">
+                🏫
+                <span>Colleges</span>
+            </a>
+
+            <a href="#">
+                💬
+                <span>Chat Assistant</span>
+            </a>
+
+        </nav>
+
+        <div class="sidebar-bottom">
+
+            <div class="online">
+                <span></span>
+                Chatbot Online
+            </div>
+
+        </div>
+
+    </aside>
+
+
+    <!-- Main Dashboard -->
+    <main class="main">
+
+        <!-- Top Bar -->
+        <header class="topbar">
+
+            <div>
+                <h1>AP EAMCET chatbot</h1>
+                <p>Your personal entrance exam assistant</p>
+            </div>
+
+            <div class="profile">
+                👤
+            </div>
+
+        </header>
+
+
+        <!-- Welcome -->
+        <section class="welcome">
+
+            <div>
+                <h2>Welcome to AP EAMCET Chatbot 👋</h2>
+
+                <p>
+                    Ask questions about AP EAMCET, syllabus,
+                    eligibility, exam pattern, preparation and more.
+                </p>
+            </div>
+
+        </section>
+
+
+        <!-- Information Cards -->
+        <section class="cards">
+
+            <div class="card">
+                <div class="card-icon">📚</div>
+
+                <h3>Syllabus</h3>
+
+                <p>
+                    Get information about AP EAMCET subjects and syllabus.
+                </p>
+
+                <button onclick="quickQuestion('What is the AP EAMCET syllabus?')">
+                    Ask Now →
+                </button>
+            </div>
+
+
+            <div class="card">
+                <div class="card-icon">📝</div>
+
+                <h3>Exam Pattern</h3>
+
+                <p>
+                    Learn about exam pattern, subjects and marking scheme.
+                </p>
+
+                <button onclick="quickQuestion('What is the AP EAMCET exam pattern?')">
+                    Ask Now →
+                </button>
+            </div>
+
+
+            <div class="card">
+                <div class="card-icon">🎯</div>
+
+                <h3>Eligibility</h3>
+
+                <p>
+                    Check eligibility-related information.
+                </p>
+
+                <button onclick="quickQuestion('What is AP EAMCET eligibility?')">
+                    Ask Now →
+                </button>
+            </div>
+
+
+            <div class="card">
+                <div class="card-icon">📅</div>
+
+                <h3>Important Dates</h3>
+
+                <p>
+                    Get information about important examination dates.
+                </p>
+
+                <button onclick="quickQuestion('What are the AP EAMCET important dates?')">
+                    Ask Now →
+                </button>
+            </div>
+
+        </section>
+
+
+        <!-- Chat Section -->
+        <section class="chat-section">
+
+            <div class="chat-title">
+
+                <div class="bot-avatar">
+                    🤖
+                </div>
+
+                <div>
+                    <h2>AP EAMCET Assistant</h2>
+                    <span>Ask me anything about AP EAMCET</span>
+                </div>
+
+            </div>
+
+
+            <div id="chat-box" class="chat-box">
+
+                <div class="message bot">
+                    <div class="message-icon">🤖</div>
+
+                    <div class="message-text">
+                        Hello! 👋 I'm your AP EAMCET Assistant.
+                        <br>
+                        How can I help you today?
+                    </div>
+                </div>
+
+            </div>
+
+
+            <!-- Input -->
+            <div class="input-area">
+
+                <input
+                    type="text"
+                    id="question"
+                    placeholder="Ask your AP EAMCET question..."
+                    onkeypress="handleKey(event)"
+                >
+
+                <button onclick="askQuestion()" class="send-button">
+                    Send ➤
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <footer>
+            AP EAMCET Chatbot • Local Q&A System
+        </footer>
+
+    </main>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>

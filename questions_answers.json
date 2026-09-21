@@ -1,0 +1,675 @@
+[
+    {
+        "question": "What is AP EAMCET?",
+        "alternatives": [
+            "What is EAMCET?",
+            "What is AP EAPCET?",
+            "Tell me about AP EAMCET",
+            "Explain AP EAMCET",
+            "What do you mean by AP EAMCET?",
+            "Can you explain EAPCET?",
+            "What is the AP EAMCET exam?"
+        ],
+        "keywords": [
+            "eamcet",
+            "eapcet",
+            "exam",
+            "entrance",
+            "test"
+        ],
+        "answer": "AP EAMCET, now called AP EAPCET, is a state-level entrance examination for admission to undergraduate engineering, agriculture and pharmacy courses in Andhra Pradesh."
+    },
+    {
+        "question": "What is the full form of AP EAMCET?",
+        "alternatives": [
+            "AP EAMCET full form",
+            "What does AP EAMCET stand for?",
+            "EAMCET full form",
+            "Tell me the full form of EAMCET",
+            "What is the meaning of EAMCET?",
+            "Expand EAMCET"
+        ],
+        "keywords": [
+            "fullform",
+            "eamcet",
+            "eapcet",
+            "meaning",
+            "abbreviation"
+        ],
+        "answer": "AP EAMCET stands for Andhra Pradesh Engineering, Agriculture and Pharmacy Common Entrance Test."
+    },
+    {
+        "question": "Who conducts AP EAMCET?",
+        "alternatives": [
+            "Who conducts EAMCET?",
+            "Who organizes AP EAMCET?",
+            "Who is conducting AP EAMCET?",
+            "Which university conducts EAMCET?",
+            "Who conducts AP EAPCET?",
+            "Who is responsible for EAMCET?"
+        ],
+        "keywords": [
+            "conducts",
+            "conducting",
+            "organizer",
+            "university",
+            "jntu",
+            "apsche"
+        ],
+        "answer": "The AP EAPCET examination is conducted by Jawaharlal Nehru Technological University, Kakinada on behalf of the Andhra Pradesh State Council of Higher Education."
+    },
+    {
+        "question": "What are the subjects in AP EAMCET?",
+        "alternatives": [
+            "Which subjects are there in EAMCET?",
+            "What subjects are in AP EAPCET?",
+            "EAMCET subjects",
+            "Tell me the EAMCET subjects",
+            "What should I study for EAMCET?",
+            "Which subjects should I prepare?"
+        ],
+        "keywords": [
+            "subjects",
+            "subject",
+            "maths",
+            "mathematics",
+            "physics",
+            "chemistry"
+        ],
+        "answer": "For the Engineering stream, the main subjects are Mathematics, Physics and Chemistry. For the BiPC stream, the main subjects are Botany, Zoology, Physics and Chemistry."
+
+    },
+    {
+        "question": "What is the AP EAMCET syllabus?",
+        "alternatives": [
+            "EAMCET syllabus",
+            "What is the syllabus for EAMCET?",
+            "Tell me AP EAMCET syllabus",
+            "Which topics are in EAMCET?",
+            "What should I study for AP EAMCET?",
+            "EAPCET syllabus",
+            "What are the EAMCET topics?"
+        ],
+        "keywords": [
+            "syllabus",
+            "topics",
+            "subjects",
+            "maths",
+            "physics",
+            "chemistry"
+        ],
+        "answer": "For the Engineering stream, the main subjects are Mathematics, Physics and Chemistry. For the BiPC stream, the main subjects are Botany, Zoology, Physics and Chemistry."
+    },
+    {
+        "question": "What is the AP EAMCET exam pattern?",
+        "alternatives": [
+            "EAMCET exam pattern",
+            "What is the exam pattern?",
+            "How is AP EAMCET conducted?",
+            "What is the EAMCET question paper pattern?",
+            "Tell me about EAMCET exam pattern",
+            "How many questions are in EAMCET?",
+            "EAMCET paper pattern"
+        ],
+        "keywords": [
+            "pattern",
+            "exam",
+            "questions",
+            "duration",
+            "marks",
+            "paper"
+        ],
+        "answer": "AP EAPCET is a computer-based entrance examination. The Engineering stream covers Mathematics, Physics and Chemistry. Candidates should check the latest official notification for the current number of questions, duration and marking scheme."
+    },
+    {
+        "question": "Is AP EAMCET an online exam?",
+        "alternatives": [
+            "Is EAMCET conducted online?",
+            "Is EAMCET a computer based exam?",
+            "Is AP EAPCET online?",
+            "How is EAMCET conducted?",
+            "EAMCET online or offline?",
+            "Is EAMCET CBT?"
+        ],
+        "keywords": [
+            "online",
+            "offline",
+            "computer",
+            "cbt",
+            "mode",
+            "exam"
+        ],
+        "answer": "Yes. AP EAPCET is conducted as a computer-based test."
+    },
+    {
+        "question": "What is the eligibility for AP EAMCET?",
+        "alternatives": [
+            "EAMCET eligibility",
+            "Who is eligible for EAMCET?",
+            "What are the eligibility criteria?",
+            "Can I apply for EAMCET?",
+            "What qualifications are required for EAMCET?",
+            "Who can write AP EAMCET?",
+            "Am I eligible for EAMCET?"
+        ],
+        "keywords": [
+            "eligibility",
+            "eligible",
+            "qualification",
+            "criteria",
+            "requirements",
+            "age",
+            "nationality"
+        ],
+        "answer": "Eligibility Engineering - MPC, MPCS, MPE, Agriculture and Pharmacy, candidates should have Biology, Physics and Chemistry as subjects ."
+    },
+    {
+        "question": "How can I apply for AP EAMCET?",
+        "alternatives": [
+            "How to apply for EAMCET?",
+            "EAMCET application process",
+            "How do I apply for AP EAPCET?",
+            "Where can I apply for EAMCET?",
+            "How to register for EAMCET?",
+            "EAMCET registration process"
+        ],
+        "keywords": [
+            "apply",
+            "application",
+            "register",
+            "registration",
+            "form",
+            "website"
+        ],
+        "answer": "Candidates can apply online through the official AP EAPCET website during the notified application period."
+    },
+    {
+        "question": "What documents are required for AP EAMCET application?",
+        "alternatives": [
+            "Documents required for EAMCET",
+            "What documents do I need for EAMCET?",
+            "EAMCET application documents",
+            "What should I upload for EAMCET?",
+            "Documents needed for EAPCET application",
+            "EAMCET certificates required"
+        ],
+        "keywords": [
+            "documents",
+            "certificates",
+            "photo",
+            "signature",
+            "upload",
+            "application"
+        ],
+        "answer": "Applicants generally need educational details, personal details, photograph, signature and other information required by the official application form. Check the latest notification for the exact requirements."
+    },
+    {
+        "question": "What is the AP EAMCET application fee?",
+        "alternatives": [
+            "EAMCET application fee",
+            "How much is EAMCET fee?",
+            "What is the registration fee for EAMCET?",
+            "EAPCET application fee",
+            "How much should I pay for EAMCET?",
+            "EAMCET registration cost"
+        ],
+        "keywords": [
+            "fee",
+            "fees",
+            "payment",
+            "cost",
+            "amount",
+            "application"
+        ],
+        "answer": "The application fee depends on the stream and category. Check the latest official AP EAPCET notification for the current fee."
+    },
+    {
+        "question": "When is AP EAMCET conducted?",
+        "alternatives": [
+            "When is EAMCET exam?",
+            "EAMCET exam date",
+            "When will AP EAPCET be conducted?",
+            "What is the EAMCET date?",
+            "When is the EAMCET exam?",
+            "EAPCET exam date"
+        ],
+        "keywords": [
+            "date",
+            "dates",
+            "exam",
+            "schedule",
+            "when",
+            "timing"
+        ],
+        "answer": "The examination dates change every year. Candidates should check the latest official AP EAPCET schedule for the current examination dates."
+    },
+    {
+        "question": "What are the important dates for AP EAMCET?",
+        "alternatives": [
+            "EAMCET important dates",
+            "AP EAMCET dates",
+            "EAPCET important dates",
+            "When does EAMCET registration start?",
+            "When is the EAMCET exam?",
+            "When is the last date to apply?",
+            "EAMCET schedule"
+        ],
+        "keywords": [
+            "dates",
+            "important",
+            "schedule",
+            "deadline",
+            "registration",
+            "exam"
+        ],
+        "answer": "Important dates include application start and last dates, correction period, hall-ticket release, examination dates, preliminary key, results and counselling. Dates change every year, so check the latest official AP EAPCET schedule."
+    },
+    {
+        "question": "How can I download the AP EAMCET hall ticket?",
+        "alternatives": [
+            "How to download EAMCET hall ticket?",
+            "EAMCET hall ticket download",
+            "Where can I get my EAMCET hall ticket?",
+            "How do I download my EAPCET hall ticket?",
+            "When can I download EAMCET hall ticket?",
+            "EAMCET admit card download"
+        ],
+        "keywords": [
+            "hallticket",
+            "hall",
+            "ticket",
+            "admit",
+            "card",
+            "download"
+        ],
+        "answer": "Candidates can download the hall ticket from the official AP EAPCET website using the required login details during the notified hall-ticket period."
+    },
+    {
+        "question": "How can I check my AP EAMCET result?",
+        "alternatives": [
+            "How to check EAMCET results?",
+            "EAMCET result",
+            "Where can I check EAMCET result?",
+            "How do I check my EAPCET result?",
+            "When will EAMCET results come?",
+            "How to download EAMCET result?"
+        ],
+        "keywords": [
+            "result",
+            "results",
+            "score",
+            "marks",
+            "download",
+            "check"
+        ],
+        "answer": "The AP EAPCET result can be checked online through the official examination website after the result is released."
+    },
+    {
+        "question": "How is AP EAMCET rank calculated?",
+        "alternatives": [
+            "How is EAMCET rank calculated?",
+            "EAMCET rank calculation",
+            "How do they calculate EAMCET rank?",
+            "How is EAPCET rank decided?",
+            "What is the EAMCET ranking process?",
+            "How can I calculate my EAMCET rank?"
+        ],
+        "keywords": [
+            "rank",
+            "ranking",
+            "calculate",
+            "score",
+            "marks",
+            "weightage"
+        ],
+        "answer": "Rank calculation is based on the rules specified for the relevant AP EAPCET admission year. Refer to the current official notification for the exact ranking procedure."
+    },
+    {
+        "question": "What is AP EAMCET counselling?",
+        "alternatives": [
+            "What is EAMCET counselling?",
+            "Explain EAMCET counselling",
+            "How does EAMCET counselling work?",
+            "What is AP EAPCET counselling?",
+            "Tell me about counselling",
+            "EAMCET counselling process"
+        ],
+        "keywords": [
+            "counselling",
+            "counseling",
+            "admission",
+            "verification",
+            "options",
+            "allotment"
+        ],
+        "answer": "AP EAPCET counselling is the admission process through which eligible candidates can participate in certificate verification, web options and seat allotment according to the applicable rules."
+    },
+    {
+        "question": "What courses are available through AP EAMCET?",
+        "alternatives": [
+            "Courses through EAMCET",
+            "What can I study through EAMCET?",
+            "Which courses accept EAMCET?",
+            "What degrees are available through EAPCET?",
+            "EAMCET courses list",
+            "Which branches can I get through EAMCET?"
+        ],
+        "keywords": [
+            "courses",
+            "course",
+            "branches",
+            "engineering",
+            "agriculture",
+            "pharmacy"
+        ],
+        "answer": "AP EAPCET is used for admission to various undergraduate engineering, agriculture and pharmacy-related courses, subject to the applicable admission rules."
+    },
+    {
+        "question": "What are the best books for AP EAMCET preparation?",
+        "alternatives": [
+            "Best books for EAMCET",
+            "Which books should I use for EAMCET?",
+            "EAMCET preparation books",
+            "Suggest books for AP EAMCET",
+            "What books are good for EAPCET?",
+            "Best study material for EAMCET"
+        ],
+        "keywords": [
+            "books",
+            "book",
+            "study",
+            "material",
+            "preparation",
+            "guides"
+        ],
+        "answer": "For preparation, start with your intermediate-level textbooks and use standard practice books and previous-question papers. Focus on understanding concepts and solving problems regularly."
+    },
+    {
+        "question": "How should I prepare for AP EAMCET?",
+        "alternatives": [
+            "How to prepare for EAMCET?",
+            "EAMCET preparation tips",
+            "How can I prepare for AP EAMCET?",
+            "How to study for EAMCET?",
+            "Give me EAMCET preparation tips",
+            "Best way to prepare for EAMCET"
+        ],
+        "keywords": [
+            "preparation",
+            "prepare",
+            "study",
+            "tips",
+            "practice",
+            "revision"
+        ],
+        "answer": "Follow the official syllabus, understand concepts, create a study schedule, practice previous questions, take mock tests and revise regularly."
+    },
+    {
+        "question": "How many hours should I study for AP EAMCET?",
+        "alternatives": [
+            "How many hours should I study for EAMCET?",
+            "EAMCET study hours",
+            "How much should I study for EAMCET?",
+            "Daily study time for EAMCET",
+            "How many hours per day for EAPCET?"
+        ],
+        "keywords": [
+            "hours",
+            "time",
+            "study",
+            "daily",
+            "schedule",
+            "routine"
+        ],
+        "answer": "There is no fixed number of hours for everyone. A consistent daily study schedule with focused practice and revision is more important than simply counting hours."
+    },
+    {
+        "question": "Can I write AP EAMCET after intermediate?",
+        "alternatives": [
+            "Can I write EAMCET after intermediate?",
+            "Can intermediate students write EAMCET?",
+            "Can I apply for EAMCET after 12th?",
+            "EAMCET after intermediate",
+            "Can 12th students write EAMCET?"
+        ],
+        "keywords": [
+            "intermediate",
+            "12th",
+            "qualification",
+            "students",
+            "eligible",
+            "apply"
+        ],
+        "answer": "Candidates who satisfy the prescribed qualifying-examination and other eligibility requirements can apply. Check the latest official notification for your specific course."
+    },
+    {
+        "question": "How can I improve my AP EAMCET rank?",
+        "alternatives": [
+            "How to improve EAMCET rank?",
+            "How can I get a better EAMCET rank?",
+            "Tips to improve EAMCET rank",
+            "How to get good rank in EAMCET?",
+            "How can I score better in EAMCET?",
+            "How to increase EAPCET rank?"
+        ],
+        "keywords": [
+            "rank",
+            "improve",
+            "score",
+            "marks",
+            "practice",
+            "mock"
+        ],
+        "answer": "Strengthen your concepts, practice regularly, solve previous questions, take timed mock tests, analyze mistakes and revise important topics."
+    },
+    {
+        "question": "What should I carry to the AP EAMCET exam?",
+        "alternatives": [
+            "What should I take to EAMCET exam?",
+            "Things to carry for EAMCET",
+            "What documents are needed at EAMCET exam center?",
+            "What should I bring to EAPCET?",
+            "EAMCET exam day documents"
+        ],
+        "keywords": [
+            "carry",
+            "documents",
+            "hallticket",
+            "id",
+            "identity",
+            "exam"
+        ],
+        "answer": "Carry the documents and items specified in the latest official instructions, such as the required hall ticket and valid identification documents."
+    },
+    {
+        "question": "Is there negative marking in AP EAMCET?",
+        "alternatives": [
+            "Does EAMCET have negative marking?",
+            "Is negative marking there in EAMCET?",
+            "EAMCET negative marks",
+            "Will I lose marks for wrong answers?",
+            "Is there negative marking in EAPCET?"
+        ],
+        "keywords": [
+            "negative",
+            "marking",
+            "marks",
+            "wrong",
+            "answers",
+            "penalty"
+        ],
+        "answer": "The marking scheme can be specified in the current AP EAPCET notification. Candidates should check the latest official notification for the applicable negative-marking rules."
+    },
+    {
+        "question": "What is the duration of AP EAMCET exam?",
+        "alternatives": [
+            "How long is EAMCET exam?",
+            "EAMCET exam duration",
+            "How many hours is EAMCET?",
+            "How much time is given for EAMCET?",
+            "EAPCET exam time"
+        ],
+        "keywords": [
+            "duration",
+            "time",
+            "hours",
+            "exam",
+            "minutes",
+            "timing"
+        ],
+        "answer": "The examination duration is specified in the current AP EAPCET notification. Candidates should check the latest official exam pattern for the applicable duration."
+    },
+    {
+        "question": "How many marks is AP EAMCET?",
+        "alternatives": [
+            "What is the total marks in EAMCET?",
+            "EAMCET total marks",
+            "How many marks are there in EAPCET?",
+            "What is the maximum score in EAMCET?",
+            "Total marks of AP EAMCET"
+        ],
+        "keywords": [
+            "marks",
+            "total",
+            "score",
+            "maximum",
+            "questions",
+            "marking"
+        ],
+        "answer": "The total marks and question structure are specified in the current AP EAPCET exam pattern. Candidates should refer to the latest official notification for the exact details."
+    },
+    {
+        "question": "What is the best way to prepare for Mathematics?",
+        "alternatives": [
+            "How to prepare Maths for EAMCET?",
+            "EAMCET Maths preparation",
+            "How can I improve Mathematics for EAMCET?",
+            "Maths preparation tips for EAMCET",
+            "How to score high in EAMCET Maths?"
+        ],
+        "keywords": [
+            "maths",
+            "mathematics",
+            "algebra",
+            "calculus",
+            "geometry",
+            "practice"
+        ],
+        "answer": "Understand the formulas and concepts, practice problems regularly, solve previous questions and take timed mock tests. Focus especially on topics where you make frequent mistakes."
+    },
+    {
+        "question": "What is the best way to prepare for Physics?",
+        "alternatives": [
+            "How to prepare Physics for EAMCET?",
+            "EAMCET Physics preparation",
+            "How can I improve Physics for EAMCET?",
+            "Physics preparation tips for EAMCET",
+            "How to score high in EAMCET Physics?"
+        ],
+        "keywords": [
+            "physics",
+            "formula",
+            "numericals",
+            "mechanics",
+            "electricity",
+            "practice"
+        ],
+        "answer": "Build a strong understanding of concepts and formulas, practice numerical problems, solve previous questions and revise important formulas regularly."
+    },
+    {
+        "question": "What is the best way to prepare for Chemistry?",
+        "alternatives": [
+            "How to prepare Chemistry for EAMCET?",
+            "EAMCET Chemistry preparation",
+            "How can I improve Chemistry for EAMCET?",
+            "Chemistry preparation tips for EAMCET",
+            "How to score high in EAMCET Chemistry?"
+        ],
+        "keywords": [
+            "chemistry",
+            "reactions",
+            "formulas",
+            "organic",
+            "inorganic",
+            "physical"
+        ],
+        "answer": "Study concepts from your textbooks, revise important reactions and formulas, practice objective questions and solve previous EAMCET questions regularly."
+    },
+    {
+        "question": "What are the best colleges through AP EAMCET?",
+        "alternatives": [
+            "Best colleges through EAMCET",
+            "Top colleges accepting EAMCET",
+            "Which are the best EAMCET colleges?",
+            "Best engineering colleges through EAPCET",
+            "Top colleges through AP EAMCET",
+            "Which college is best after EAMCET?"
+        ],
+        "keywords": [
+            "colleges",
+            "college",
+            "engineering",
+            "top",
+            "best",
+            "placements"
+        ],
+        "answer": "The best college depends on your rank, category, preferred branch and counselling options. Compare colleges based on previous closing ranks, branch availability, placements, fees and location."
+    },
+    {
+        "question": "What is the AP EAMCET answer key?",
+        "alternatives": [
+            "What is EAMCET answer key?",
+            "EAMCET answer key",
+            "When will EAMCET answer key be released?",
+            "How to check EAPCET answer key?",
+            "AP EAMCET preliminary key"
+        ],
+        "keywords": [
+            "answer",
+            "key",
+            "answers",
+            "objection",
+            "preliminary",
+            "final"
+        ],
+        "answer": "The AP EAPCET answer key contains the answers used to evaluate the examination. Candidates can check the official key after it is released and may have an opportunity to raise objections according to the official schedule."
+    },
+    {
+        "question": "Can I challenge the AP EAMCET answer key?",
+        "alternatives": [
+            "Can I object to EAMCET answer key?",
+            "How to challenge EAMCET answer key?",
+            "EAMCET answer key objections",
+            "Can I raise objections in EAPCET?",
+            "How to submit EAMCET objections?"
+        ],
+        "keywords": [
+            "challenge",
+            "object",
+            "objection",
+            "answer",
+            "key",
+            "complaint"
+        ],
+        "answer": "If an objection facility is provided, candidates can submit objections according to the official instructions and within the notified deadline."
+    },
+    {
+        "question": "What is AP EAMCET seat allotment?",
+        "alternatives": [
+            "What is EAMCET seat allotment?",
+            "How does EAMCET seat allotment work?",
+            "EAPCET seat allotment",
+            "When will EAMCET seats be allotted?",
+            "How are colleges allotted in EAMCET?"
+        ],
+        "keywords": [
+            "seat",
+            "allotment",
+            "college",
+            "branch",
+            "admission",
+            "options"
+        ],
+        "answer": "Seat allotment is the process of assigning a college and course to eligible candidates based on rank, category, preferences, seat availability and applicable admission rules."
+    }
+]
